@@ -1,0 +1,11 @@
+.done-true {
+  text-decoration: line-through;
+}
+
+#new-task {
+  padding:10px;
+}
+
+#task-estimate {
+  width:40px;
+}
